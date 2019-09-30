@@ -55,6 +55,3 @@ workflows:
     jobs:
       - build
       - deploy
-    branches:
-      ignore:
-        - master
